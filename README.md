@@ -135,11 +135,21 @@ https://hub.docker.com/repository/docker/sawyer086/custom-nginx/tags/1.0.0/sha25
 
 ## Задача 2:
 ![1](https://github.com/Sawyer086/05-virt-03-docker/blob/main/2/2.0.jpg)
+
 Выполнить команду "date +"%d-%m-%Y %T.%N %Z" ; sleep 0.150 ; docker ps ; ss -tlpn | grep 127.0.0.1:8080  ; docker logs custom-nginx-t2 -n1 ; docker exec -it custom-nginx-t2 base64 /usr/share/nginx/html/index.html" удалось под root-ом.
+
 ## Задача 3:
+### 1-3
 Подключаемся к консоли контейнера с помощью команды docker attach и нажимаем Ctrl+C:
+
 ![1](https://github.com/Sawyer086/05-virt-03-docker/blob/main/3/3.0%20(1-3).jpg)
+
 Ctrl+C останавливает контейнер потому, что по умолчанию Docker передаёт процессу SIGINT (сигнал прерывания), который должен корректно обработать процесс внутри контейнера.
+
+### 4-6
+
+![2](https://github.com/Sawyer086/05-virt-03-docker/blob/main/3/3.1(4-6).jpg)
+
 ## Задача 4:
 
 
