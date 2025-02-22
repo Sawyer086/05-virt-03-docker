@@ -123,25 +123,26 @@ services:
 Домашнее задание выполните в файле readme.md в GitHub-репозитории. В личном кабинете отправьте на проверку ссылку на .md-файл в вашем репозитории.
 
 # Ответ:
+
 ## Задача 1:
 ![1](https://github.com/Sawyer086/05-virt-03-docker/blob/main/1/1.0.jpg)
 ![2](https://github.com/Sawyer086/05-virt-03-docker/blob/main/1/1.1.jpg)
 ![3](https://github.com/Sawyer086/05-virt-03-docker/blob/main/1/1.2.jpg)
 https://hub.docker.com/repository/docker/sawyer086/custom-nginx/general
-# Ответ:
+
 ## Задача 2:
 
-# Ответ:
+
 ## Задача 3:
 
-# Ответ:
+
 ## Задача 4:
 
-# Ответ:
+
 ## Задача 5:
 
-# Ответ:
+
 ## Задача 6:
 
-# Ответ:
+
 ## Задача 7:
