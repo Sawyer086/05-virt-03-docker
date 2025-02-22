@@ -150,6 +150,13 @@ Ctrl+C останавливает контейнер потому, что по �
 
 ![2](https://github.com/Sawyer086/05-virt-03-docker/blob/main/3/3.1(4-6).jpg)
 
+### 7
+
+![3](https://github.com/Sawyer086/05-virt-03-docker/blob/main/3/3.2(7).jpg)
+
+### 8-10
+![4](https://github.com/Sawyer086/05-virt-03-docker/blob/main/3/3.3(8-10).jpg)
+
 ## Задача 4:
 
 
