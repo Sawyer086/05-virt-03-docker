@@ -128,8 +128,10 @@ services:
 ![1](https://github.com/Sawyer086/05-virt-03-docker/blob/main/1/1.0.jpg)
 ![2](https://github.com/Sawyer086/05-virt-03-docker/blob/main/1/1.1.jpg)
 ![3](https://github.com/Sawyer086/05-virt-03-docker/blob/main/1/1.2.jpg)
+
 https://hub.docker.com/repository/docker/sawyer086/custom-nginx/general
 
+https://hub.docker.com/repository/docker/sawyer086/custom-nginx/tags/1.0.0/sha256-639becc0cce167d82fc5ce4419a8d74be177eaf74e8afb3eb7a1bde93f0414f7
 ## Задача 2:
 
 
