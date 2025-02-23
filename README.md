@@ -187,6 +187,7 @@ docker-compose.yaml является устаревшим и поддержив�
 
 include:
   - docker-compose.yaml
+    
 ![2](https://github.com/Sawyer086/05-virt-03-docker/blob/main/5/5.1(1-2).jpg)
 
 
