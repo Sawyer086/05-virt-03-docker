@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/feafc37b-5590-46a2-8c67-0d4d03f3dcca)# Домашнее задание к занятию 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
+!# Домашнее задание к занятию 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
 
 ### Инструкция к выполению
 
