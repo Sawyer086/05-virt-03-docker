@@ -174,7 +174,7 @@ Ctrl+C останавливает контейнер потому, что по �
 ![1](https://github.com/Sawyer086/05-virt-03-docker/blob/main/3/3.6(12).jpg)
 
 ## Задача 4:
-
+![1](https://github.com/Sawyer086/05-virt-03-docker/blob/main/4/4.0.jpg)
 
 ## Задача 5:
 
